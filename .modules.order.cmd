@@ -1,1 +1,0 @@
-cmd_/home/jeremy/linux-hwe-5.15-5.15.0/drivers/net/wireless/mediatek/mt7601u/modules.order := {   echo /home/jeremy/linux-hwe-5.15-5.15.0/drivers/net/wireless/mediatek/mt7601u/mt7601u.ko; :; } | awk '!x[$$0]++' - > /home/jeremy/linux-hwe-5.15-5.15.0/drivers/net/wireless/mediatek/mt7601u/modules.order

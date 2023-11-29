@@ -1,1 +1,0 @@
-cmd_/home/jeremy/linux-hwe-5.15-5.15.0/drivers/net/wireless/mediatek/mt7601u/Module.symvers := sed 's/\.ko$$/\.o/' /home/jeremy/linux-hwe-5.15-5.15.0/drivers/net/wireless/mediatek/mt7601u/modules.order | scripts/mod/modpost -m -a  -o /home/jeremy/linux-hwe-5.15-5.15.0/drivers/net/wireless/mediatek/mt7601u/Module.symvers -e -i Module.symvers   -T -
